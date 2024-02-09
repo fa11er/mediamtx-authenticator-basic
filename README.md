@@ -16,7 +16,7 @@ If you need assistance, you can contact fa11er.ad@gmail.com
 ### Build from source
 *mediamtx-authenticator-basic uses [Maven](https://maven.apache.org/) for its build system.*
 
-Step 1: Download [mediamtx-authenticator-basic source]()
+Step 1: Download [mediamtx-authenticator-basic source](https://github.com/fa11er/mediamtx-authenticator-basic/archive/refs/heads/master.zip)
 
 Step 2: To unzip archive, run:
 ```
