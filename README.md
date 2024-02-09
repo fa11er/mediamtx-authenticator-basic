@@ -11,8 +11,8 @@ If you need assistance, you can contact fa11er.ad@gmail.com
 
 ### Requirements
 - JAVA 17+
-
 - Redis
+- PostgreSQL
 ### Build from source
 *mediamtx-authenticator-basic uses [Maven](https://maven.apache.org/) for its build system.*
 
